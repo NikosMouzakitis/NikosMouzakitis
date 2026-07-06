@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @NikosMouzakitis
 - 👀 I’m interested in ComputerEngineering / Applied Maths
-- Currently working on my Master Thesis "Epilepsy Detection from Multi-Channel EEG Using Cross-Recurrence Quantification Analysis and Machine Learning"
+- Bch Mathematics (Uni.Aegean)
+- Bch Informatics Engineering (HMU)
+- MSc. Informatic Engineering (HMU)
 
 
 <!---
